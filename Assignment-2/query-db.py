@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import mysql.connector  # Importing the MySQL connector library
 import time  # Importing the time module
 import xml.etree.ElementTree as ET  # Importing the ElementTree module from the XML library
