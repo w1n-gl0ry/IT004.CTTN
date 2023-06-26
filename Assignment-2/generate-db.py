@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from mysql.connector import Error
 from tqdm import tqdm
 from faker import Faker
